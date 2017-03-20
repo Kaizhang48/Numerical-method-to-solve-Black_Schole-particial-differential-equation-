@@ -1,2 +1,2 @@
 # Numerical-method-to-solve-Black_Schole-particial-differential-equation-
-Use the first-order backward finite difference method to solve BS model
+Use the first-order backward finite difference method to solve BS model for european put option
